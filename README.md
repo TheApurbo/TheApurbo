@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Apurbo Sarkar
+Hi there! 👋 I'm Apurbo 
 
 🎓 Maintenance Engineering (Avionics) student  
 ✈️ Interested in Aviation, Avionics, Engineering & Technology  
