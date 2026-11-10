@@ -104,7 +104,7 @@ A practical data-analysis project focused on aircraft maintenance reliability.
 
 ## 📫 Connect With Me
 
-- 📧 Email: apurbosarkar20233@gmail.co.
+- 📧 Email: apurbosarkar20233@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/apurbo-sarkar-26a892340?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 🐙 GitHub: [TheApurbo](https://github.com/TheApurbo)
 
